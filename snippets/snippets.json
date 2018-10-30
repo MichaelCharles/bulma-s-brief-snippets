@@ -1,0 +1,10 @@
+{
+    "Bulma_Link_and_Font_Awesome_JavaScript": {
+        "prefix": "bulma-links",
+        "body": [
+          "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css\">",
+          "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>"
+        ],
+        "description": "Generate CSS link for Bulma and insert JavaScript link for Font Awesome."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "bulma-s-brief-snippets",
+    "displayName": "Bulma's Brief Snippets",
+    "description": "A brief way to use the Bulma CSS framework.",
+    "version": "0.0.1",
+    "publisher": "michaelcharles",
+    "icon": "images/icon.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/mcaubrey/bulma-s-brief-snippets"
+    },
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
