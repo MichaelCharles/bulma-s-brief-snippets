@@ -14,6 +14,6 @@ The following snippet(s) are available.
 
 * It's too brief.
 
-### 0.1.0
+### 0.1.1
 
-Initial release of Bulma's Brief Snippets. Right now it just generates the necessary CSS and JavaScript links.
+Added support for Laravel blade files.

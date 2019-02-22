@@ -2,7 +2,7 @@
     "name": "bulma-s-brief-snippets",
     "displayName": "Bulma's Brief Snippets",
     "description": "A brief way to use the Bulma CSS framework.",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "publisher": "michaelcharles",
     "icon": "images/icon.png",
     "repository": {
@@ -19,6 +19,10 @@
         "snippets": [
             {
                 "language": "php",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/snippets.json"
             },
             {
