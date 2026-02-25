@@ -8,11 +8,15 @@ The following snippet(s) are available.
 
 | Prefix | Result |
 |---|---|
-| bulma-links | Includes CSS and JavaScript for Bulma and Font Awesome. | 
+| bulma-links | Includes CSS links for Bulma and Font Awesome. |
 
 ## Known Issues
 
 * It's too brief.
+
+### 0.2.0
+
+Updated Bulma CDN to 1.0.4 and Font Awesome to 7.0.1.
 
 ### 0.1.1
 

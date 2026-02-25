@@ -2,7 +2,7 @@
     "name": "bulma-s-brief-snippets",
     "displayName": "Bulma's Brief Snippets",
     "description": "A brief way to use the Bulma CSS framework.",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "michaelcharles",
     "icon": "images/icon.png",
     "repository": {
@@ -10,7 +10,7 @@
 		"url": "https://github.com/mcaubrey/bulma-s-brief-snippets"
     },
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^1.75.0"
     },
     "categories": [
         "Snippets"

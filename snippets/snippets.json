@@ -1,10 +1,10 @@
 {
-    "Bulma_Link_and_Font_Awesome_JavaScript": {
+    "Bulma_Link_and_Font_Awesome": {
         "prefix": "bulma-links",
         "body": [
-          "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css\">",
-          "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>"
+          "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/1.0.4/css/bulma.min.css\">",
+          "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css\">"
         ],
-        "description": "Generate CSS link for Bulma and insert JavaScript link for Font Awesome."
+        "description": "Generate CSS links for Bulma and Font Awesome."
     }
 }
